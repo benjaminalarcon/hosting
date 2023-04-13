@@ -1,0 +1,16 @@
+# hosting<!DOCTYPE html>
+<html>
+<head>
+	<title>Chilesaurus - Diego Suarez</title>
+</head>
+<body bgcolor="#58D68D">
+  <a href="index.html"> 
+   <img src="img/casa.png" width="5%">
+  </a>
+	<h3><center><i>CHILESAURUS</i></center></h3>
+<h4><p>En 2004, un niño de 7 años encontro un fosil de un dinosuario unico, ya que segun un estudio, es el unico conocido del Perio Jurasico que se alimentaba exculsiavmente de plantas. Lo descubireron en los cerros de Aysén, en el sur de Chile, en busca de rocas. Un grupo de cientificos llamó al dinosuario <b>Chilesarus diegosaurezi</b> en honor al pequeño que descurbio el fosil.</p></h4>
+ <div widht="50%" align="center">
+  <center><img src="img/chilesaurus.jpg" width="50%"/></center>
+ </div widht="50%" align="center"> 
+</body>
+</html>
